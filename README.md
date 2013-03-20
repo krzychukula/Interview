@@ -15,3 +15,6 @@ Ideas:
 Joel's test:
 
  http://www.joelonsoftware.com/articles/fog0000000043.html
+
+and connected: 
+ http://www.devblogi.pl/2010/10/jak-efektywnie-realizowac-zadania-kiedy.html
