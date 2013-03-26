@@ -18,3 +18,6 @@ Joel's test:
 
 and connected: 
  http://www.devblogi.pl/2010/10/jak-efektywnie-realizowac-zadania-kiedy.html
+ 
+ 
+ http://henrikwarne.com/2013/03/26/what-do-programmers-want/
